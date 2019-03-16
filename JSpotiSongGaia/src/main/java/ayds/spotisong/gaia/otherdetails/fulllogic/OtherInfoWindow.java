@@ -51,7 +51,7 @@ public class OtherInfoWindow {
           try {
 
 
-            callResponse = discoGSAPI.getArtistInfo(song.getAlbumName(), song.getArtistName()).execute();
+            callResponse = discoGSAPI.getAlbumInfo(song.getAlbumName(), song.getArtistName()).execute();
 
             System.out.println("JSON " + callResponse.body());
 
@@ -72,7 +72,7 @@ public class OtherInfoWindow {
               text = extract.getAsString();
 
 
-              text = formateText(text, yearE.getAsString());
+              text = formatText(text, yearE.getAsString());
 
               path = image.getAsString();
 
@@ -139,7 +139,7 @@ public class OtherInfoWindow {
     win.getArtistBio(song);
   }
 
-  public static String formateText(String title, String year) {
+  public static String formatText(String title, String year) {
 
     StringBuilder builder = new StringBuilder();
 
