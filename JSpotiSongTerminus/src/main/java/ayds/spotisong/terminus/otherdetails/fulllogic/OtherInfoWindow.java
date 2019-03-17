@@ -62,7 +62,7 @@ public class OtherInfoWindow {
             if (extract == null) {
               text = "No Results";
             } else {
-              text =formateText( extract.getAsString());
+              text =formatText( extract.getAsString());
 
 
 
@@ -133,7 +133,7 @@ public class OtherInfoWindow {
     win.getArtistBio(song);
   }
 
-  public static String formateText(String text) {
+  public static String formatText(String text) {
 
     StringBuilder builder = new StringBuilder();
 
