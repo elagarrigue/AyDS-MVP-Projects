@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca34885d-77c6-4e1a-ae83-ddf442c0a8b0" name="Default Changelist" comment="" />
+    <list default="true" id="ca34885d-77c6-4e1a-ae83-ddf442c0a8b0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../ASpotiSongAurora/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ASpotiSongAurora/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ASpotiSongGaia/.idea/caches/gradle_models.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../ASpotiSongGaia/.idea/caches/gradle_models.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ASpotiSongGaia/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ASpotiSongGaia/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ASpotiSongTerminus/.idea/caches/gradle_models.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../ASpotiSongTerminus/.idea/caches/gradle_models.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ASpotiSongTerminus/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ASpotiSongTerminus/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ASpotiSongTerminus/app/src/main/java/ayds/spotisong/terminus/otherdetails/fulllogic/OtherInfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ASpotiSongTerminus/app/src/main/java/ayds/spotisong/terminus/otherdetails/fulllogic/OtherInfoActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSpotiSongAurora/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../JSpotiSongAurora/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSpotiSongAurora/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JSpotiSongAurora/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSpotiSongAurora/extra_info.db" beforeDir="false" afterPath="$PROJECT_DIR$/../JSpotiSongAurora/extra_info.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albums.db" beforeDir="false" afterPath="$PROJECT_DIR$/albums.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs.db" beforeDir="false" afterPath="$PROJECT_DIR$/songs.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSpotiSongTerminus/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JSpotiSongTerminus/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSpotiSongTerminus/lyrics.db" beforeDir="false" afterPath="$PROJECT_DIR$/../JSpotiSongTerminus/lyrics.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JSpotiSongTerminus/songs.db" beforeDir="false" afterPath="$PROJECT_DIR$/../JSpotiSongTerminus/songs.db" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -21,7 +37,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ayds/spotisong/gaia/song/model/Song.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
+            <state relative-caret-position="192">
               <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
             </state>
           </provider>
@@ -35,7 +51,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ayds/spotisong/gaia/song/model/repository/external/ExternalService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
+            <state relative-caret-position="192">
               <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
             </state>
           </provider>
@@ -44,7 +60,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ayds/spotisong/gaia/main/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
+            <state relative-caret-position="128">
               <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
@@ -53,8 +69,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/ayds/spotisong/gaia/otherdetails/fulllogic/OtherInfoWindow.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="508">
-              <caret line="155" column="3" lean-forward="true" selection-start-line="141" selection-start-column="1" selection-end-line="155" selection-end-column="3" />
+            <state relative-caret-position="336">
+              <caret line="155" column="3" selection-start-line="141" selection-start-column="1" selection-end-line="155" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -62,7 +78,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ayds/spotisong/gaia/otherdetails/fulllogic/DiscoGSAPI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
+            <state relative-caret-position="256">
               <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
             </state>
           </provider>
@@ -71,7 +87,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ayds/spotisong/gaia/otherdetails/fulllogic/DataBase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
+            <state relative-caret-position="3808">
               <caret line="119" column="83" selection-start-line="119" selection-start-column="69" selection-end-line="119" selection-end-column="83" />
             </state>
           </provider>
@@ -80,7 +96,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ayds/spotisong/gaia/song/view/SearchSongViewModule.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
+            <state relative-caret-position="64">
               <caret line="2" column="26" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="26" />
             </state>
           </provider>
@@ -89,7 +105,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ayds/spotisong/gaia/song/model/SearchSongModelImp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
+            <state relative-caret-position="800">
               <caret line="32" selection-start-line="32" selection-end-line="32" />
             </state>
           </provider>
@@ -98,7 +114,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ayds/spotisong/gaia/song/model/SearchSongModel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
+            <state relative-caret-position="256">
               <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="38" />
             </state>
           </provider>
@@ -192,11 +208,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="122" />
-    <option name="y" value="122" />
-    <option name="width" value="1400" />
-    <option name="height" value="877" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="40" />
+    <option name="y" value="23" />
+    <option name="width" value="1240" />
+    <option name="height" value="777" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -367,8 +383,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="40" y="23" width="1240" height="777" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22203673" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22537562" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -377,7 +394,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32953367" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29740933" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29740933" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -554,69 +571,69 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ayds/spotisong/gaia/song/model/Song.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ayds/spotisong/gaia/song/model/repository/external/spotify/SpotifyToTokenResolver.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ayds/spotisong/gaia/song/model/repository/external/ExternalService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
+        <state relative-caret-position="192">
           <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ayds/spotisong/gaia/main/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
+        <state relative-caret-position="128">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ayds/spotisong/gaia/otherdetails/fulllogic/DiscoGSAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ayds/spotisong/gaia/otherdetails/fulllogic/DataBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3808">
+          <caret line="119" column="83" selection-start-line="119" selection-start-column="69" selection-end-line="119" selection-end-column="83" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ayds/spotisong/gaia/song/view/SearchSongViewModule.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
+        <state relative-caret-position="64">
           <caret line="2" column="26" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ayds/spotisong/gaia/song/model/SearchSongModelImp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
+        <state relative-caret-position="800">
           <caret line="32" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ayds/spotisong/gaia/song/model/SearchSongModel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
+        <state relative-caret-position="256">
           <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ayds/spotisong/gaia/otherdetails/fulllogic/DataBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="119" column="83" selection-start-line="119" selection-start-column="69" selection-end-line="119" selection-end-column="83" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ayds/spotisong/gaia/otherdetails/fulllogic/DiscoGSAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ayds/spotisong/gaia/song/model/Song.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ayds/spotisong/gaia/otherdetails/fulllogic/OtherInfoWindow.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="508">
-          <caret line="155" column="3" lean-forward="true" selection-start-line="141" selection-start-column="1" selection-end-line="155" selection-end-column="3" />
+        <state relative-caret-position="336">
+          <caret line="155" column="3" selection-start-line="141" selection-start-column="1" selection-end-line="155" selection-end-column="3" />
         </state>
       </provider>
     </entry>

@@ -78,7 +78,7 @@ public class OtherInfoActivity extends AppCompatActivity {
 
           callResponse = lyricsAPI.getLyrics(song.getArtistName(), song.getSongName()).execute();
 
-          System.out.println("JSON " + callResponse.body());
+          Log.e("**","JSON " + callResponse.body());
 
           Gson gson = new Gson();
           JsonObject jobj = gson.fromJson(callResponse.body(), JsonObject.class);
